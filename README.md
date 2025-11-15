@@ -100,7 +100,7 @@ Feel free to explore, clone, and improve upon the system.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 **Ahmed Hassan**  
 **Ziad Ekramy**
 Faculty of Business Informatics    
